@@ -1,11 +1,11 @@
-HTML struktūra (header, nav, main, footer)
-CSS flexbox išdėstymas
-Teksto stilių keitimas (spalvos, dydis, šriftas)
-Nuotraukų įterpimas ir apvalinimas
+- HTML struktūra (header, nav, main, footer)
+- CSS flexbox išdėstymas
+- Teksto stilių keitimas (spalvos, dydis, šriftas)
+- Nuotraukų įterpimas ir apvalinimas
 
-Google Fonts integracija
-Video fonas su (video)
-CSS object-fit: cover
-Permatomas navigacijos baras su rgba ir backdrop-filter
-Overlay sluoksnis video pritemdymui
-box-shadow ir text-shadow efektai
+- Google Fonts integracija
+- Video fonas su (video)
+- CSS object-fit: cover
+- Permatomas navigacijos baras su rgba ir backdrop-filter
+- Overlay sluoksnis video pritemdymui
+- box-shadow ir text-shadow efektai
